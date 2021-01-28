@@ -1,7 +1,7 @@
 # ASP.NetMVC-Development
 
 1. [Installation](#installation)
-2. [MVC Architectural Pattern] (#pattern)
+2. [MVC Architectural Pattern](#pattern)
 3. [Project Descriptions](#descriptions)
 4. [Results](#results)
 
