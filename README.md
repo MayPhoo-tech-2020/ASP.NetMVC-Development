@@ -8,6 +8,10 @@
 ## Installation <a name="installation">
 - Visual Studio 2019
 - ASP.Net Web Application with Visual C#
+- EntityFrameWrok 6.4.4
+- MySql.Data.Entity
+- .NET Framework 4.7.2 used
+- MVC project template used
 </a>
 
 ## MVC Architectural Pattern<a name="pattern"></a>

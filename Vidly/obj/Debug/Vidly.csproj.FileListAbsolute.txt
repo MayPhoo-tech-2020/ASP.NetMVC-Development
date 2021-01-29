@@ -51,8 +51,12 @@ D:\.Net\Projects\ASP.NetMVC-Development\Vidly\bin\roslyn\vbc.rsp
 D:\.Net\Projects\ASP.NetMVC-Development\Vidly\bin\roslyn\VBCSCompiler.exe
 D:\.Net\Projects\ASP.NetMVC-Development\Vidly\bin\roslyn\VBCSCompiler.exe.config
 D:\.Net\Projects\ASP.NetMVC-Development\Vidly\bin\Antlr3.Runtime.dll
+D:\.Net\Projects\ASP.NetMVC-Development\Vidly\bin\EntityFramework.dll
+D:\.Net\Projects\ASP.NetMVC-Development\Vidly\bin\EntityFramework.SqlServer.dll
 D:\.Net\Projects\ASP.NetMVC-Development\Vidly\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 D:\.Net\Projects\ASP.NetMVC-Development\Vidly\bin\Microsoft.Web.Infrastructure.dll
+D:\.Net\Projects\ASP.NetMVC-Development\Vidly\bin\MySql.Data.dll
+D:\.Net\Projects\ASP.NetMVC-Development\Vidly\bin\MySql.Data.Entity.EF6.dll
 D:\.Net\Projects\ASP.NetMVC-Development\Vidly\bin\Newtonsoft.Json.dll
 D:\.Net\Projects\ASP.NetMVC-Development\Vidly\bin\System.Web.Helpers.dll
 D:\.Net\Projects\ASP.NetMVC-Development\Vidly\bin\System.Web.Mvc.dll
@@ -62,6 +66,10 @@ D:\.Net\Projects\ASP.NetMVC-Development\Vidly\bin\System.Web.WebPages.Deployment
 D:\.Net\Projects\ASP.NetMVC-Development\Vidly\bin\System.Web.WebPages.dll
 D:\.Net\Projects\ASP.NetMVC-Development\Vidly\bin\System.Web.WebPages.Razor.dll
 D:\.Net\Projects\ASP.NetMVC-Development\Vidly\bin\WebGrease.dll
+D:\.Net\Projects\ASP.NetMVC-Development\Vidly\bin\EntityFramework.xml
+D:\.Net\Projects\ASP.NetMVC-Development\Vidly\bin\EntityFramework.SqlServer.xml
+D:\.Net\Projects\ASP.NetMVC-Development\Vidly\bin\MySql.Data.xml
+D:\.Net\Projects\ASP.NetMVC-Development\Vidly\bin\MySql.Data.Entity.EF6.xml
 D:\.Net\Projects\ASP.NetMVC-Development\Vidly\bin\System.Web.Helpers.xml
 D:\.Net\Projects\ASP.NetMVC-Development\Vidly\bin\System.Web.Mvc.xml
 D:\.Net\Projects\ASP.NetMVC-Development\Vidly\bin\System.Web.Optimization.xml
@@ -77,11 +85,3 @@ D:\.Net\Projects\ASP.NetMVC-Development\Vidly\obj\Debug\Vidly.csproj.CoreCompile
 D:\.Net\Projects\ASP.NetMVC-Development\Vidly\obj\Debug\Vidly.csproj.CopyComplete
 D:\.Net\Projects\ASP.NetMVC-Development\Vidly\obj\Debug\Vidly.dll
 D:\.Net\Projects\ASP.NetMVC-Development\Vidly\obj\Debug\Vidly.pdb
-D:\.Net\Projects\ASP.NetMVC-Development\Vidly\bin\EntityFramework.dll
-D:\.Net\Projects\ASP.NetMVC-Development\Vidly\bin\EntityFramework.SqlServer.dll
-D:\.Net\Projects\ASP.NetMVC-Development\Vidly\bin\Microsoft.AspNet.Identity.Core.dll
-D:\.Net\Projects\ASP.NetMVC-Development\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.dll
-D:\.Net\Projects\ASP.NetMVC-Development\Vidly\bin\EntityFramework.xml
-D:\.Net\Projects\ASP.NetMVC-Development\Vidly\bin\EntityFramework.SqlServer.xml
-D:\.Net\Projects\ASP.NetMVC-Development\Vidly\bin\Microsoft.AspNet.Identity.Core.xml
-D:\.Net\Projects\ASP.NetMVC-Development\Vidly\bin\Microsoft.AspNet.Identity.EntityFramework.xml
