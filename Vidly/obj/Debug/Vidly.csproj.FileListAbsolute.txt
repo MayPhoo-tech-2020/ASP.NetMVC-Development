@@ -85,3 +85,5 @@ D:\.Net\Projects\ASP.NetMVC-Development\Vidly\obj\Debug\Vidly.csproj.CoreCompile
 D:\.Net\Projects\ASP.NetMVC-Development\Vidly\obj\Debug\Vidly.csproj.CopyComplete
 D:\.Net\Projects\ASP.NetMVC-Development\Vidly\obj\Debug\Vidly.dll
 D:\.Net\Projects\ASP.NetMVC-Development\Vidly\obj\Debug\Vidly.pdb
+D:\.Net\Projects\ASP.NetMVC-Development\Vidly\obj\Debug\Vidly.Migrations.InitialMigration.resources
+D:\.Net\Projects\ASP.NetMVC-Development\Vidly\obj\Debug\Vidly.csproj.GenerateResource.cache

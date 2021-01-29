@@ -9,7 +9,7 @@
     <ProductVersion>
     </ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{9E48C7B6-AFFF-4DAF-B2B4-CE6096F668B5}</ProjectGuid>
+    <ProjectGuid>{992E2D3A-8733-4EF1-8DA3-B2F05E389033}</ProjectGuid>
     <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
@@ -19,7 +19,7 @@
     <MvcBuildViews>false</MvcBuildViews>
     <UseIISExpress>true</UseIISExpress>
     <Use64BitIISExpress />
-    <IISExpressSSLPort>44301</IISExpressSSLPort>
+    <IISExpressSSLPort>44379</IISExpressSSLPort>
     <IISExpressAnonymousAuthentication />
     <IISExpressWindowsAuthentication />
     <IISExpressUseClassicPipelineMode />
@@ -143,14 +143,14 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\202101291633154_Initial Migration.cs" />
-    <Compile Include="Migrations\202101291633154_Initial Migration.designer.cs">
-      <DependentUpon>202101291633154_Initial Migration.cs</DependentUpon>
+    <Compile Include="Migrations\202101291707297_InitialMigration.cs" />
+    <Compile Include="Migrations\202101291707297_InitialMigration.designer.cs">
+      <DependentUpon>202101291707297_InitialMigration.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Customer.cs" />
     <Compile Include="Models\Movie.cs" />
-    <Compile Include="Models\VidlyContext.cs" />
+    <Compile Include="Models\VidlyContextcs.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -192,7 +192,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Models\ViewModels\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />
@@ -208,8 +207,8 @@
     <Content Include="Scripts\jquery-3.4.1.min.map" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\202101291633154_Initial Migration.resx">
-      <DependentUpon>202101291633154_Initial Migration.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\202101291707297_InitialMigration.resx">
+      <DependentUpon>202101291707297_InitialMigration.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
@@ -228,9 +227,9 @@
         <WebProjectProperties>
           <UseIIS>True</UseIIS>
           <AutoAssignPort>True</AutoAssignPort>
-          <DevelopmentServerPort>55354</DevelopmentServerPort>
+          <DevelopmentServerPort>55819</DevelopmentServerPort>
           <DevelopmentServerVPath>/</DevelopmentServerVPath>
-          <IISUrl>https://localhost:44301/</IISUrl>
+          <IISUrl>https://localhost:44379/</IISUrl>
           <NTLMAuthentication>False</NTLMAuthentication>
           <UseCustomServer>False</UseCustomServer>
           <CustomServerUrl>
