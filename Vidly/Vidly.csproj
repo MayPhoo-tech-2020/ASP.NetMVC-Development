@@ -139,6 +139,7 @@
     <Compile Include="App_Start\BundleConfig.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Controllers\CustomersController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
@@ -147,10 +148,15 @@
     <Compile Include="Migrations\202101291707297_InitialMigration.designer.cs">
       <DependentUpon>202101291707297_InitialMigration.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202101291857548_AddDataAnnotatinsAndViewModels.cs" />
+    <Compile Include="Migrations\202101291857548_AddDataAnnotatinsAndViewModels.designer.cs">
+      <DependentUpon>202101291857548_AddDataAnnotatinsAndViewModels.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Customer.cs" />
     <Compile Include="Models\Movie.cs" />
     <Compile Include="Models\VidlyContextcs.cs" />
+    <Compile Include="Models\ViewModels\RandomMovieViewModels.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -192,6 +198,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Views\Customers\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />
@@ -209,6 +216,9 @@
   <ItemGroup>
     <EmbeddedResource Include="Migrations\202101291707297_InitialMigration.resx">
       <DependentUpon>202101291707297_InitialMigration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202101291857548_AddDataAnnotatinsAndViewModels.resx">
+      <DependentUpon>202101291857548_AddDataAnnotatinsAndViewModels.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <PropertyGroup>
